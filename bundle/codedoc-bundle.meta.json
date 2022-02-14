@@ -88,14 +88,14 @@
       "hash": "YbYFcB1rsbLOiaZ0abrhMQ=="
     },
     {
-      "name": "ArticleCard",
-      "filename": "/home/runner/work/connect-blog/connect-blog/.codedoc/node_modules/@codedoc/coding-blog-plugin/dist/es5/components/article-card/index.js",
-      "hash": "hL0tcc4E7/LtWKINoH+zbg=="
-    },
-    {
       "name": "Author",
       "filename": "/home/runner/work/connect-blog/connect-blog/.codedoc/node_modules/@codedoc/coding-blog-plugin/dist/es5/components/author/index.js",
       "hash": "b43qECLp/TKlx0SDaaJ+EQ=="
+    },
+    {
+      "name": "ArticleCard",
+      "filename": "/home/runner/work/connect-blog/connect-blog/.codedoc/node_modules/@codedoc/coding-blog-plugin/dist/es5/components/article-card/index.js",
+      "hash": "hL0tcc4E7/LtWKINoH+zbg=="
     },
     {
       "name": "ToCPrevNext",
